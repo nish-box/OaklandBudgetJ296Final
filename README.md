@@ -67,7 +67,7 @@
 
 #### QUESTION #4: Compare the revenue vs expenses of each department funded LAST year and list any departments that have a large disparity between the two.
 ##### REVENUES
-!['Pivot Table Revenue Last Year'](/Q4FY21-22Revenue PT.png)
+!['Pivot Table Revenue Last Year'](/Q4FY21-22RevenuePT.png)
 1. Go to sheet FY21-22, highlight all cells and create a pivot table (FY21-22Revenue PT).
 2. Assign "Department" to ROWS; Assign SUM of "Amount" to VALUES and set to % of Grand Total; Filter for Revenue ONLY according to account-type
     * DEPARTMENTS THAT BROUGHT IN SIGNIFICANT REVENUE
@@ -81,7 +81,7 @@
      * Planning and Building brought in	2.70% 
  
 ##### EXPENSES
-!['Pivot Table Expenses Last Year'](/Q4FY21-22Expense PT.png)
+!['Pivot Table Expenses Last Year'](/Q4FY21-22ExpensePT.png)
 1. Go to sheet FY21-22, highlight all cells and create a pivot table (FY21-22Expense PT.
 2. Assign "Department" to ROWS; Assign SUM of "Amount" to VALUES and set to % of Grand Total; Filter for Expenses ONLY according to account-type
     * DEPARTMENTS WITH SIGNIFICANT EXPENSES
@@ -100,7 +100,7 @@ I notice that of the two lists (of departments with signifant spending and reven
 
 #### QUESTION #5: Compare the revenue vs expenses of each department funded THIS year and list any departments that have a large disparity between the two.
 ##### REVENUES
-!['Pivot Table Revenue This Year'](/Q5FY22-23Revenue PT.png)
+!['Pivot Table Revenue This Year'](/Q5FY22-23RevenuePT.png)
 1. Go to sheet FY22-23, highlight all cells and create a pivot table (FY22-23Revenue PT).
 2. Assign "Department" to ROWS; Assign SUM of "Amount" to VALUES and set to % of Grand Total; Filter for Revenue ONLY according to account-type
     * DEPARTMENTS THAT BROUGHT IN SIGNIFICANT REVENUE
@@ -114,7 +114,7 @@ I notice that of the two lists (of departments with signifant spending and reven
      * Housing and Community Development brought in	2.07%  
  
 ##### EXPENSES
-!['Pivot Table Expenses This Year'](/Q5FY22-23Expense PT.png)
+!['Pivot Table Expenses This Year'](/Q5FY22-23ExpensePT.png)
 1. Go to sheet FY22-23, highlight all cells and create a pivot table (FY22-23Expense PT.
 2. Assign "Department" to ROWS; Assign SUM of "Amount" to VALUES and set to % of Grand Total; Filter for Expenses ONLY according to account-type
     * DEPARTMENTS WITH SIGNIFICANT EXPENSES
