@@ -1,5 +1,5 @@
 # Oakland Budget Analysis J296 Final
-## PART 02: Data Analysis – Interviewing the Data
+## PART 01: Data Analysis – Interviewing the Data
 
 ### QUESTION #1: Compare the overall budget from last year to this year. What was the average spent on all departments?
 #### LAST YEAR
@@ -148,3 +148,6 @@ I notice that of the two lists (of departments with signifant spending and reven
 Of the significant expenses vs revenue this year, I notice a similar pattern from last year. There are four departments that do not bring in any or much revenue but who do spend a lot of government funding. These departments are Police (17.83% of the budget used), Fire (10.51% of the budget used), Oakland Public Library (2.41% of the budget used), and Information Technology (2.05% of the budget used). Of these three departments, only the Police force is spending much more than it is actually generating revenue for the city. This is a big disparity, again.
 
 This time, in fact, the police force has more than a 1% increase in their expenses. So does the fire department. 
+
+## PART 02: The Story – Why are Oaklanders Calling for A People's Budget?
+
