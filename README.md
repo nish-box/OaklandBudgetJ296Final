@@ -171,11 +171,11 @@ Police overspending is just one of the things that Hihara and other organizers p
 
 Additionally, unlike other city departments with a lot of expenditures, OPD does not bring in nearly the same amount of money it spends. 
 
-!['Top 5 Funded Departments Data Viz'](/Top5FundedViz.png)(https://infogram.com/top-5-fy22-23-1hd12yx7ovwox6k?live)
+!['Top 5 Funded Departments Data Viz'](/Top5FundedDataViz.png)(https://infogram.com/top-5-fy22-23-1hd12yx7ovwox6k?live)
 
 This graph shows the vast disparity between the revenue and expenses of the Police department compared to the other five most funded departments. Nearly every single one (save the Fire and Police department) evens out spending with the revenue they bring in. In the case of the Fire department, it is also important to consider the impact that the worsening climate crisis and more frequent, more devastating wildfires are having on the department’s increased spending.
 
-!['Policing Funding Data Viz'](/OPDFundingGraph.png)(https://infogram.com/police-vs-crime-1h7k230p3953v2x?live)
+!['Policing Funding Data Viz'](/OPDFundingViz.png)(https://infogram.com/police-vs-crime-1h7k230p3953v2x?live)
 !['Crime Rates Data Viz'](/CrimeGraph.png)(https://infogram.com/police-vs-crime-1h7k230p3953v2x?live)
 
 By comparison, based on [this data aggregated from sources like the DOJ and FBI](https://docs.google.com/spreadsheets/d/1EBNrb0qsuJLiwBCgNkl-EP2_LYo3gAvqiGRJmM_lwOE/edit#gid=0), increased police funding in Oakland has done very little to actually decrease crime rates in the area. In the case of violent crime, there has been a 4.23% increase from 2018 to 2021. Property crime has decreased by an insignificant 1% but not before seeing a sharp uptick in crime rates from 2018-2019. That year, coincidentally, was the same year that OPD saw an increase in funding from $291,024,081 to $318,707,837 (a nearly 10% increase).
