@@ -74,7 +74,7 @@ NOTE: The datasets I used came from Open Budget Oakland. Specifically I looked a
 #### THIS YEAR
 1. Go to FY22-23 Q2 Sort Sheet
 4. Sort SUM of EXPENSES column from A - Z
-  * The five departments with the most funding were in order: Race and Equity, Public Ethics Commission, City Auditor, Mayor, and Workplace and Employment Standards. 
+  * The five departments with the least funding were in order: Race and Equity, Public Ethics Commission, City Auditor, Mayor, and Workplace and Employment Standards. 
   * Of these five, four (Race & Equity, Public Ethics Commission, City Auditor, and Workplace and Employment Standards) departments work to check the government and provide oversight into its actions. (TOTAL: 6,508,737 or .34% of total budget)
   * The mayor's office was the last department in this list. (TOTAL: 4,936,318 or .26% of total budget)
 
