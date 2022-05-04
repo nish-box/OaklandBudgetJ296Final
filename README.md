@@ -149,5 +149,44 @@ Of the significant expenses vs revenue this year, I notice a similar pattern fro
 
 This time, in fact, the police force has more than a 1% increase in their expenses. So does the fire department. 
 
-## PART 02: The Story – Why are Oaklanders Calling for A People's Budget?
+## PART 02: The Story – Why Are These Oaklanders Calling For A People's Budget?
+
+The late afternoon sun beats down on the parking lot’s asphalt. Tia Taruc-Myers is positioned in front of this Grocery Outlet’s automatic sliding doors; she squints towards Broadway, where cars and buses race to beat the turning colors of the traffic light, and she tries to make eye contact with people walking into the store. 
+
+“Sign for A People’s Budget of Oakland? We just need your signature,” she calls out to them. Many of them pretend not to hear her but others are intrigued. A People’s Budget? What’s that? They pause, ask questions.
+
+Taruc-Myers explains that it’s a way to bring direct democracy to Oakland; to let the people decide where their money goes, what it funds. The People’s Budget initiative was founded by Community Democracy Project ¬(CDP) – a grassroots organization born out of the flames of the Occupy Oakland movement.
+
+This isn’t the first time that Taruc-Myers is gathering signatures for the initiative. This is the third time organizers are trying to get The People’s Budget on the ballot. When they first tried this in 2015, they were too slow to collect signatures and quickly realized that they wouldn’t get to the necessary 40,000 in the allotted 6 months’ time. In 2019, they were closer. This time, they had 40,000 signatures but not all of them were verified. Some Berkeley voters had signed, making their petition invalid.
+
+But Taruc-Myers feels optimistic today. It is Wednesday, April 27th; the first day of attempt #3 at getting The People’s Budget on the Oakland City Ballot. “I think it's actually going to be easier now because of the Black Lives Matter movement and their focus on defunding the police,” says Taruc-Myers. “I think it'll be easier to help people understand how important a budget is ¬– especially locally.”
+
+Another CDP organizer, Blake Hihara agrees. In a KPFA interview last January, he said “I’ve talked to thousands of people on the streets of Oakland, when collecting signatures for our initiative.” What Hihara realized was that “people care about safety […] good streets […] filling in those potholes [and] having a livable community. And, when we’re spending that money on police budget overtime,” he said, “we need huge systemic change.”
+
+Police overspending is just one of the things that Hihara and other organizers point to, to showcase city budget mismanagement but it’s an effective talking point. The Oakland Police Department (OPD) is one of the highest funded city departments, routinely taking in anywhere from 16% to 21% of the total city budget. 
+
+Additionally, unlike other city departments with a lot of expenditures, OPD does not bring in nearly the same amount of money it spends. 
+
+!['Top 5 Funded Departments Data Viz'](/Top5FundedDataViz.png)
+
+This graph shows the vast disparity between the revenue and expenses of the Police department compared to the other five most funded departments. Nearly every single one (save the Fire and Police department) evens out spending with the revenue they bring in. In the case of the Fire department, it is also important to consider the impact that the worsening climate crisis and more frequent, more devastating wildfires are having on the department’s increased spending.
+
+!['Policing Funding Data Viz'](/OPDFundingGraph.png)
+!['Crime Rates Data Viz'](/CrimeGraph.png)
+
+By comparison, based on this data aggregated from sources like the DOJ and FBI, increased police funding in Oakland has done very little to actually decrease crime rates in the area. In the case of violent crime, there has been a 4.23% increase from 2018 to 2021. Property crime has decreased by an insignificant 1% but not before seeing a sharp uptick in crime rates from 2018-2019. Coincidentally, this is the same year that OPD saw an increase in funding from $291,024,081 to $318,707,837 (a nearly 10% increase).
+
+All of this raises the question – if increased police spending is not decreasing crime, what is the money actually doing? Hihara and Taruc-Myers point to other departments that could take on responsibilities similar to OPD. There is a department dedicated to Violence Prevention but currently, it only has funding of $27,380,953, or only 1% of the city budget. Taruc-Myers wonders what crime in Oakland might look like if some of the Police funding went to this department; or if it helped create more affordable housing, or libraries, or educational opportunities for the city’s youth.
+
+Earlier this year, the Bay Area Council, a local advocacy group released the results of their annual Bay Area Quality of Life Survey. To Rufus Jeffris, who manages communications at the Bay Area Council, the results are clear – “people in the Bay Area are grumpy,” he says.  And it’s true – a majority of residents are dissatisfied with the quality of life in the area, with 64% citing that things in the Bay Area are on the “Wrong Track”. Over 89% of respondents claimed that housing, crime, and cost of living were some of the most important problems facing the region. 
+
+To Jeffris, the survey is an important indicator of the needs going unmet in the area. He says council conducts this survey annually to “try and gauge the general mood in the region and ask voters to help inform our policy work; the survey validates that we're focused on the right issues.”
+
+While policy is all well and good, for Taruc-Myers, it’s not doing nearly enough. “Even if you have an awesome policy, most things need to be funded,” she says. “Without money, it won't happen.” 
+
+She recalls another underfunded sector within the Oakland City Government–the Race and Equity department, which receives a paltry 0.06% of the city budget. “I'm sure whoever created that department had awesome policies and thought that the department would be powerful enough to do something they called equity but without the money, it's really hard to do important work. So, I focus most of my energy on the people's budget.”
+
+And this isn’t just for herself. Taruc-Myers has a 7-week year old baby named Mia. She hopes that the work she is doing now – of gathering these signatures and imagining a better future ¬– creates a better Oakland for her daughter growing up. 
+
+“I hope there will be libraries on every other block and places where people can gather and talk with each other comfortably. Now, this is true for some parts of Oakland but I want it for all of Oakland,” she says. 
 
