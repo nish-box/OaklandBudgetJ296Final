@@ -1,6 +1,8 @@
 # Oakland Budget Analysis J296 Final
 ## PART 01: Data Analysis – Interviewing the Data
 
+NOTE: The datasets I used came from Open Budget Oakland. Specifically I looked at the budgets for this year and last year. They are named "DATASET_FY22-23_adopted.csv" and "DATASET_FY21-22_adopted.csv" (respectively)
+
 ### QUESTION #1: Compare the overall budget from last year to this year. What was the average spent on all departments?
 #### LAST YEAR
 !['Overall Budget Last Year'](/Q1PTFY21-22.png)
