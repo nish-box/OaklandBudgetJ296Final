@@ -150,6 +150,8 @@ Of the significant expenses vs revenue this year, I notice a similar pattern fro
 This time, in fact, the police force has more than a 1% increase in their expenses. So does the fire department. 
 
 ## PART 02: The Story – Why Are These Oaklanders Calling For A People's Budget?
+### A grassroots Oakland organization wants to change who's in charge of the city budget. 
+#### By Hanisha Harjani
 
 The late afternoon sun beats down on the parking lot’s asphalt. Tia Taruc-Myers is positioned in front of this Grocery Outlet’s automatic sliding doors; she squints towards Broadway, where cars and buses race to beat the turning colors of the traffic light, and she tries to make eye contact with people walking into the store. 
 
@@ -167,18 +169,18 @@ Police overspending is just one of the things that Hihara and other organizers p
 
 Additionally, unlike other city departments with a lot of expenditures, OPD does not bring in nearly the same amount of money it spends. 
 
-!['Top 5 Funded Departments Data Viz'](/Top5FundedDataViz.png)
+!['Top 5 Funded Departments Data Viz'](/Top5FundedDataViz.png)(https://infogram.com/top-5-fy22-23-1hd12yx7ovwox6k?live)
 
 This graph shows the vast disparity between the revenue and expenses of the Police department compared to the other five most funded departments. Nearly every single one (save the Fire and Police department) evens out spending with the revenue they bring in. In the case of the Fire department, it is also important to consider the impact that the worsening climate crisis and more frequent, more devastating wildfires are having on the department’s increased spending.
 
-!['Policing Funding Data Viz'](/OPDFundingGraph.png)
-!['Crime Rates Data Viz'](/CrimeGraph.png)
+!['Policing Funding Data Viz'](/OPDFundingGraph.png)(https://infogram.com/police-vs-crime-1h7k230p3953v2x?live)
+!['Crime Rates Data Viz'](/CrimeGraph.png)(https://infogram.com/police-vs-crime-1h7k230p3953v2x?live)
 
-By comparison, based on this data aggregated from sources like the DOJ and FBI, increased police funding in Oakland has done very little to actually decrease crime rates in the area. In the case of violent crime, there has been a 4.23% increase from 2018 to 2021. Property crime has decreased by an insignificant 1% but not before seeing a sharp uptick in crime rates from 2018-2019. Coincidentally, this is the same year that OPD saw an increase in funding from $291,024,081 to $318,707,837 (a nearly 10% increase).
+By comparison, based on [this data aggregated from sources like the DOJ and FBI](https://docs.google.com/spreadsheets/d/1EBNrb0qsuJLiwBCgNkl-EP2_LYo3gAvqiGRJmM_lwOE/edit#gid=0), increased police funding in Oakland has done very little to actually decrease crime rates in the area. In the case of violent crime, there has been a 4.23% increase from 2018 to 2021. Property crime has decreased by an insignificant 1% but not before seeing a sharp uptick in crime rates from 2018-2019. Coincidentally, this is the same year that OPD saw an increase in funding from $291,024,081 to $318,707,837 (a nearly 10% increase).
 
 All of this raises the question – if increased police spending is not decreasing crime, what is the money actually doing? Hihara and Taruc-Myers point to other departments that could take on responsibilities similar to OPD. There is a department dedicated to Violence Prevention but currently, it only has funding of $27,380,953, or only 1% of the city budget. Taruc-Myers wonders what crime in Oakland might look like if some of the Police funding went to this department; or if it helped create more affordable housing, or libraries, or educational opportunities for the city’s youth.
 
-Earlier this year, the Bay Area Council, a local advocacy group released the results of their annual Bay Area Quality of Life Survey. To Rufus Jeffris, who manages communications at the Bay Area Council, the results are clear – “people in the Bay Area are grumpy,” he says.  And it’s true – a majority of residents are dissatisfied with the quality of life in the area, with 64% citing that things in the Bay Area are on the “Wrong Track”. Over 89% of respondents claimed that housing, crime, and cost of living were some of the most important problems facing the region. 
+Earlier this year, the Bay Area Council, a local advocacy group released the results of their annual [Bay Area Quality of Life Survey](https://drive.zooce.com/management/builtinapps/fileoperator.aspx?child=1&a=D3B60E43-50D3-46D5-A799-2C3CECF14238&ro=1&fid=4617797970591790573_15094471938716140981). To Rufus Jeffris, who manages communications at the Bay Area Council, the results are clear – “people in the Bay Area are grumpy,” he says.  And it’s true – a majority of residents are dissatisfied with the quality of life in the area, with 64% citing that things in the Bay Area are on the “Wrong Track”. Over 89% of respondents claimed that housing, crime, and cost of living were some of the most important problems facing the region. 
 
 To Jeffris, the survey is an important indicator of the needs going unmet in the area. He says council conducts this survey annually to “try and gauge the general mood in the region and ask voters to help inform our policy work; the survey validates that we're focused on the right issues.”
 
