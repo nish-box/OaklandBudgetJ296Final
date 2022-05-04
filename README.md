@@ -190,7 +190,7 @@ While policy is all well and good, for Taruc-Myers, it’s not doing nearly enou
 
 She recalls another underfunded sector within the Oakland City Government–the Race and Equity department, which receives a paltry 0.06% of the city budget. “I'm sure whoever created that department had awesome policies and thought that the department would be powerful enough to do something they called equity but without the money, it's really hard to do important work. So, I focus most of my energy on the people's budget.”
 
-And this isn’t just for herself. Taruc-Myers has a 7-week year old baby named Mia. She hopes that the work she is doing now – of gathering these signatures and imagining a better future ¬– creates a better Oakland for her daughter growing up. 
+And this isn’t just for herself. Taruc-Myers has a 7-week year old baby named Ki. She hopes that the work she is doing now – of gathering these signatures and imagining a better future ¬– creates a better Oakland for her daughter growing up. 
 
 “I hope there will be libraries on every other block and places where people can gather and talk with each other comfortably. Now, this is true for some parts of Oakland but I want it for all of Oakland,” she says. 
 
