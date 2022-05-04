@@ -171,7 +171,7 @@ Police overspending is just one of the things that Hihara and other organizers p
 
 Additionally, unlike other city departments with a lot of expenditures, OPD does not bring in nearly the same amount of money it spends. 
 
-!['Top 5 Funded Departments Data Viz'](/Top5FundedDataViz.png)(https://infogram.com/top-5-fy22-23-1hd12yx7ovwox6k?live)
+!['Top 5 Funded Departments Data Viz'](/Top5FundedViz.png)(https://infogram.com/top-5-fy22-23-1hd12yx7ovwox6k?live)
 
 This graph shows the vast disparity between the revenue and expenses of the Police department compared to the other five most funded departments. Nearly every single one (save the Fire and Police department) evens out spending with the revenue they bring in. In the case of the Fire department, it is also important to consider the impact that the worsening climate crisis and more frequent, more devastating wildfires are having on the department’s increased spending.
 
