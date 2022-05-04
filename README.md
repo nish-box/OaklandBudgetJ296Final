@@ -44,7 +44,7 @@ NOTE: The datasets I used came from Open Budget Oakland. Specifically I looked a
     * In FY22-23, the city of Oakland went over their budget by $192,000.
 
 #### OVERALL
-* The city has been better about staying within budget but there are still departments that are overspending.
+* The city has been worse about staying within budget (by 42,000); there are still departments that are overspending.
 
 ### QUESTION #3: What departments were funded the most last fiscal year? This fiscal year? 
 #### LAST YEAR
